@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 
 DEBUG = os.environ.get('DEBUG')
 
-ALLOWED_HOSTS = ['abdulrahmankolawole.herokuapp.com']
+ALLOWED_HOSTS = ['abdulrahmankolawole.herokuapp.com', 'myportfoliowebsite-production.up.railway.app']
 
 
 # Application definition
